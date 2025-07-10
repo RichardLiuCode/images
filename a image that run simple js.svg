@@ -1,0 +1,12 @@
+<svg width="100" height="100">
+  <rect x="0" y="0" width="100" height="100" fill="blue"/>
+</svg>
+
+<script>
+setTimeout(function(){
+alert("Skibidi !")
+},5000)
+window.onload=function(){
+console.log("script is running")
+}
+</script>
